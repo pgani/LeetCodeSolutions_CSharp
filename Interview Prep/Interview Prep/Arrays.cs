@@ -82,5 +82,30 @@ namespace Interview_Prep
 
             return false;
         }
+
+        public static int[] ProductExceptSelf(int[] nums)
+        {
+            int[] result = new int[nums.Length];
+
+            //First pass needs to result in a multiplication of the two values before it.
+            //e.g. [1, 2, 3, 4], result turns into [1, 1, 2, 6]
+            result[0] = 1;
+
+            for(int i = 1; i < nums.Length; i++)
+            {
+                result[i] = result[i - 1] * nums[i - 1];
+            }
+
+            //Second pass will result in the final value, and it'll be the result multiplied by the total number of values above it.
+            int multiplier = 1;
+            
+            for(int i = nums.Length - 1; i >= 0; i--)
+            {
+                result[i] *= multiplier;
+                multiplier *= nums[i];
+            }
+
+            return result;
+        }
     }
 }

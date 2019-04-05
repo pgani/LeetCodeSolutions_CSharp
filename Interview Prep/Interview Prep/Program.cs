@@ -40,6 +40,22 @@ namespace Interview_Prep
             }
 
             Console.WriteLine("a duplicate.");
+
+            //ProductExceptSelf Test
+            int[] numsProd = { 1, 2, 3, 4 };
+            int[] resultProd = Arrays.ProductExceptSelf(numsProd);
+
+            Console.Write("The array contains ");
+
+            for(int i = 0; i < resultProd.Length; i++)
+            {
+                Console.Write(resultProd[i]);
+
+                if(i != resultProd.Length - 1)
+                {
+                    Console.Write(", ");
+                }
+            }
         }
     }
 }
