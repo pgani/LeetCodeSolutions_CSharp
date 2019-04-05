@@ -34,5 +34,31 @@ namespace Interview_Prep
             //Returns an empty array otherwise.
             return new int[] { 0, 0 };
         }
+
+        public static int MaxProfit(int[] prices)
+        {
+            int profit = 0;
+            int maxProfit = 0;
+            int minPrice = 0;
+
+            for (int i = 0; i < prices.Length; i++)
+            {
+                //if minPrice's value is initialized or less than the value shown, set it to be minPrice
+                if (i == 0 || minPrice > prices[i])
+                {
+                    minPrice = prices[i];
+                }
+
+                profit = prices[i] - minPrice;
+
+                //If the calculated profit is higher than the current max Profit, set it to be max Profit
+                if (profit > 0 && profit > maxProfit)
+                {
+                    maxProfit = profit;
+                }
+            }
+
+            return maxProfit;
+        }
     }
 }

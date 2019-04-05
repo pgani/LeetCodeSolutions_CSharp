@@ -9,3 +9,14 @@ C:\Users\Peter Gani\Documents\Git Repositories\LeetCode\Interview Prep\Interview
 C:\Users\Peter Gani\Documents\Git Repositories\LeetCode\Interview Prep\Interview Prep\obj\Debug\netcoreapp2.1\Interview Prep.AssemblyInfo.cs
 C:\Users\Peter Gani\Documents\Git Repositories\LeetCode\Interview Prep\Interview Prep\obj\Debug\netcoreapp2.1\Interview Prep.dll
 C:\Users\Peter Gani\Documents\Git Repositories\LeetCode\Interview Prep\Interview Prep\obj\Debug\netcoreapp2.1\Interview Prep.pdb
+C:\Users\Peter Gani\Documents\Git Repositories\LeetCodeSolutions_CSharp\Interview Prep\Interview Prep\bin\Debug\netcoreapp2.1\Interview Prep.deps.json
+C:\Users\Peter Gani\Documents\Git Repositories\LeetCodeSolutions_CSharp\Interview Prep\Interview Prep\bin\Debug\netcoreapp2.1\Interview Prep.runtimeconfig.json
+C:\Users\Peter Gani\Documents\Git Repositories\LeetCodeSolutions_CSharp\Interview Prep\Interview Prep\bin\Debug\netcoreapp2.1\Interview Prep.runtimeconfig.dev.json
+C:\Users\Peter Gani\Documents\Git Repositories\LeetCodeSolutions_CSharp\Interview Prep\Interview Prep\bin\Debug\netcoreapp2.1\Interview Prep.dll
+C:\Users\Peter Gani\Documents\Git Repositories\LeetCodeSolutions_CSharp\Interview Prep\Interview Prep\bin\Debug\netcoreapp2.1\Interview Prep.pdb
+C:\Users\Peter Gani\Documents\Git Repositories\LeetCodeSolutions_CSharp\Interview Prep\Interview Prep\obj\Debug\netcoreapp2.1\Interview Prep.csprojAssemblyReference.cache
+C:\Users\Peter Gani\Documents\Git Repositories\LeetCodeSolutions_CSharp\Interview Prep\Interview Prep\obj\Debug\netcoreapp2.1\Interview Prep.csproj.CoreCompileInputs.cache
+C:\Users\Peter Gani\Documents\Git Repositories\LeetCodeSolutions_CSharp\Interview Prep\Interview Prep\obj\Debug\netcoreapp2.1\Interview Prep.AssemblyInfoInputs.cache
+C:\Users\Peter Gani\Documents\Git Repositories\LeetCodeSolutions_CSharp\Interview Prep\Interview Prep\obj\Debug\netcoreapp2.1\Interview Prep.AssemblyInfo.cs
+C:\Users\Peter Gani\Documents\Git Repositories\LeetCodeSolutions_CSharp\Interview Prep\Interview Prep\obj\Debug\netcoreapp2.1\Interview Prep.dll
+C:\Users\Peter Gani\Documents\Git Repositories\LeetCodeSolutions_CSharp\Interview Prep\Interview Prep\obj\Debug\netcoreapp2.1\Interview Prep.pdb

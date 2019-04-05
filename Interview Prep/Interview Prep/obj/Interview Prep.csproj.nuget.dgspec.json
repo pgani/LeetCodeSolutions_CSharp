@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Peter Gani\\Documents\\Git Repositories\\LeetCode\\Interview Prep\\Interview Prep\\Interview Prep.csproj": {}
+    "C:\\Users\\Peter Gani\\Documents\\Git Repositories\\LeetCodeSolutions_CSharp\\Interview Prep\\Interview Prep\\Interview Prep.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Peter Gani\\Documents\\Git Repositories\\LeetCode\\Interview Prep\\Interview Prep\\Interview Prep.csproj": {
+    "C:\\Users\\Peter Gani\\Documents\\Git Repositories\\LeetCodeSolutions_CSharp\\Interview Prep\\Interview Prep\\Interview Prep.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Peter Gani\\Documents\\Git Repositories\\LeetCode\\Interview Prep\\Interview Prep\\Interview Prep.csproj",
+        "projectUniqueName": "C:\\Users\\Peter Gani\\Documents\\Git Repositories\\LeetCodeSolutions_CSharp\\Interview Prep\\Interview Prep\\Interview Prep.csproj",
         "projectName": "Interview Prep",
-        "projectPath": "C:\\Users\\Peter Gani\\Documents\\Git Repositories\\LeetCode\\Interview Prep\\Interview Prep\\Interview Prep.csproj",
+        "projectPath": "C:\\Users\\Peter Gani\\Documents\\Git Repositories\\LeetCodeSolutions_CSharp\\Interview Prep\\Interview Prep\\Interview Prep.csproj",
         "packagesPath": "C:\\Users\\Peter Gani\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Peter Gani\\Documents\\Git Repositories\\LeetCode\\Interview Prep\\Interview Prep\\obj\\",
+        "outputPath": "C:\\Users\\Peter Gani\\Documents\\Git Repositories\\LeetCodeSolutions_CSharp\\Interview Prep\\Interview Prep\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
