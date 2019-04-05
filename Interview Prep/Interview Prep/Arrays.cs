@@ -15,7 +15,7 @@ namespace Interview_Prep
 
             for (int i = 0; i < nums.Length; i++)
             {
-                //if the remainder is already in the hashmap, return the indices and the index of the remainder value.
+                //if the remainder is already in the hashtable, return the indices and the index of the remainder value.
                 remainder = target - nums[i];
                 if (indexOfNums.ContainsKey(remainder))
                 {
@@ -59,6 +59,28 @@ namespace Interview_Prep
             }
 
             return maxProfit;
+        }
+
+        public static bool ContainsDuplicate(int[] nums)
+        {
+            //local variables
+            Hashtable dupCount = new Hashtable();    
+
+            for (int i = 0; i < nums.Length; i++)
+            {
+                //if the number is already in the hashtable, return true.
+                if (dupCount.ContainsKey(nums[i]))
+                {
+                    return true;         
+                }
+                //Otherwise, adds it into the hash table
+                else
+                {
+                    dupCount.Add(nums[i], 1);
+                }
+            }
+
+            return false;
         }
     }
 }

@@ -24,6 +24,22 @@ namespace Interview_Prep
             int[] prices = { 7, 1, 5, 3, 6, 4 };
 
             Console.WriteLine("The Maximum Profit is: " + Arrays.MaxProfit(prices));
+
+            //ContainsDuplicate Test
+            int[] numsDup = { 1, 2, 3, 1 };
+
+            Console.Write("The array");
+
+            if(Arrays.ContainsDuplicate(numsDup))
+            {
+                Console.Write(" is ");
+            }
+            else
+            {
+                Console.Write("isn't ");
+            }
+
+            Console.WriteLine("a duplicate.");
         }
     }
 }
